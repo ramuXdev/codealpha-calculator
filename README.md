@@ -23,7 +23,8 @@ A responsive, browser-based calculator that supports:
 
 ---
 
-## 🔗 Live Link
+## 🔗 Live Demo
 
-Coming soon via GitHub Pages...
+[Click here to view the live Calculator](https://ramuxdev.github.io/codealpha-calculator/)
+
 
